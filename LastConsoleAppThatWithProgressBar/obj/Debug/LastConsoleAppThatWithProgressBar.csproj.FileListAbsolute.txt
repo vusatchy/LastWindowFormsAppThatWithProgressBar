@@ -1,0 +1,9 @@
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\bin\Debug\LastConsoleAppThatWithProgressBar.exe.config
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\bin\Debug\LastConsoleAppThatWithProgressBar.exe
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\bin\Debug\LastConsoleAppThatWithProgressBar.pdb
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.MainForm.resources
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.Properties.Resources.resources
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.csproj.GenerateResource.Cache
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.exe
+C:\Users\white\Desktop\C++\LastConsoleAppThatWithProgressBar\LastConsoleAppThatWithProgressBar\obj\Debug\LastConsoleAppThatWithProgressBar.pdb
